@@ -1,0 +1,19 @@
+/* Akapit zwykły */
+p {
+    color: red;
+    font-size: 22pt;
+}
+
+/* ID przypisany do nazwiska */
+#gruby_dziewulski {
+    color: green;
+    font-size: 17pt;
+    font-weight: bold;
+}
+
+/* ID uniwersalny */
+#dla_wszystkich {
+    color: yellow;
+    font-size: 16pt;
+    font-family: Arial, sans-serif;
+}
